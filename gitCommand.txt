@@ -8,5 +8,5 @@ git push -u origin main
 
 
 git add --all
-git commit -m "Chapter 07: Thinking In React State Management>> Lecture 6: Deleting an Item More Child-to-Parent Communication!"
+git commit -m "Chapter 07: Thinking In React State Management>> Lecture 7: Updating an Item Complex Immutable Data Operation"
 git push -u origin main
