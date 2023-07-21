@@ -8,5 +8,5 @@ git push -u origin main
 
 
 git add --all
-git commit -m "Chapter 07: Thinking In React State Management>> Lecture 7: Updating an Item Complex Immutable Data Operation"
+git commit -m "Chapter 07: Thinking In React State Management>> Lecture 7: Calculating Statistics as Derived State"
 git push -u origin main
