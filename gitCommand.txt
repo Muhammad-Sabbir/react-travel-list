@@ -8,5 +8,5 @@ git push -u origin main
 
 
 git add --all
-git commit -m "Chapter 06: State, Events, and Forms Interactive Components>> Lecture 16: EXERCISE #1 Flashcards."
+git commit -m "Chapter 07: Thinking In React State Management>> Lecture 6: Deleting an Item More Child-to-Parent Communication!"
 git push -u origin main
