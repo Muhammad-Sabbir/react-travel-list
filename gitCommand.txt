@@ -8,5 +8,5 @@ git push -u origin main
 
 
 git add --all
-git commit -m "Chapter 06: State, Events, and Forms Interactive Components>> Lecture 10: Updating State Based on Current State"
+git commit -m "Chapter 06: State, Events, and Forms Interactive Components>> Lecture 16: EXERCISE #1 Flashcards."
 git push -u origin main
