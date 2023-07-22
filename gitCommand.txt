@@ -8,5 +8,5 @@ git push -u origin main
 
 
 git add --all
-git commit -m "Chapter 07: Thinking In React State Management>> Lecture 10: Sorting Items"
+git commit -m "Chapter 07: Thinking In React State Management>> Lecture 11: Clearing the List"
 git push -u origin main
