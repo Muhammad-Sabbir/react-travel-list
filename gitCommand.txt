@@ -8,5 +8,5 @@ git push -u origin main
 
 
 git add --all
-git commit -m "Chapter 07: Thinking In React State Management>> Lecture 11: Clearing the List"
+git commit -m "Chapter 07: Thinking In React State Management>> Lecture 13: EXERCISE #1 Accordion Component (v1)"
 git push -u origin main
