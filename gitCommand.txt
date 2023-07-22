@@ -8,5 +8,5 @@ git push -u origin main
 
 
 git add --all
-git commit -m "Chapter 07: Thinking In React State Management>> Lecture 7: Calculating Statistics as Derived State"
+git commit -m "Chapter 07: Thinking In React State Management>> Lecture 10: Sorting Items"
 git push -u origin main
